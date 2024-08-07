@@ -70,7 +70,7 @@ The dataset contains the following columns:
 
 ## Files
 
-- `Insurance FIle.xlsx`: The Excel file containing the data and the dashboard.
+- `dummydataInsuranceFIle.xlsx` : This is dummy data. We have to analyze it using this data. 
 
 ## Conclusion
 
